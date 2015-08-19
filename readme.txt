@@ -1,4 +1,4 @@
-Color game to test colorblindness. 
+Fun color game to test colorblindness. Made during 2015 summer. 
 
 Needs following extensions:
 SDL2
